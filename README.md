@@ -1,4 +1,4 @@
-## Seja bem-vindo! Aqui você encontrará códigos em C#
+## Seja bem-vindo! Aqui você encontrará códigos em C# :computer:
 
 Esse repositório é destinado a salvar os códigos realizados em C# na matéria de Linguagens de Progrmação, professora Maria Augusta Puget (Magu), assim disponibilizando de forma remota os exercícios para acessos futuros e acompanhar o meu desenvolvimento na linguagem durante as aulas.
 
