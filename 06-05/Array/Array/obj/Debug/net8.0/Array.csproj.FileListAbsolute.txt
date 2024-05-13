@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\bin\Debug\net8.0\Array.exe
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\bin\Debug\net8.0\Array.dll
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.sourcelink.json
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.dll
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Linguagens-Programacao\exercicios\06-05\Array\Array\obj\Debug\net8.0\ref\Array.dll
