@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\Linguagens-Programacao\\exercicios\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Linguagens\\Linguagens-Programacao\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\Linguagens-Programacao\\exercicios\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Linguagens\\Linguagens-Programacao\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Linguagens-Programacao\\exercicios\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Linguagens\\Linguagens-Programacao\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
         "projectName": "OrientacaoObjetos",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\Linguagens-Programacao\\exercicios\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Linguagens\\Linguagens-Programacao\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\Linguagens-Programacao\\exercicios\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Linguagens\\Linguagens-Programacao\\13-05\\OrientacaoObjetos\\OrientacaoObjetos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
