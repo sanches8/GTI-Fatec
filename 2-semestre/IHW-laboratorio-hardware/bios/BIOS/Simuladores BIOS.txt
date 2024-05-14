@@ -1,0 +1,12 @@
+Phoenix Bios
+https://www.grs-software.de/sims/bios/phoenix/pages/
+
+Phoenix Award
+https://appro.mit.jyu.fi/tools/biossimu/simu.html
+
+Lenovo
+https://download.lenovo.com/bsco/index.html
+
+Intel
+https://www.intel.com.br/content/www/br/pt/download/17242/bios-simulator-for-s1400-1600-2400-2600-server-platform-families.html
+https://www.intel.com.br/content/www/br/pt/download/17982/bios-simulator-for-servers-based-on-the-intel-xeon-processor-e5-2600-v3-product-family.html?wapkw=Simulador
