@@ -79,6 +79,57 @@
 		- Getters (acessados): permite acessar o valor de um atributo de uma classe. Fornece apenas leitura ao valor do atributo
 
 
+	- Hierarquia de classses -
+
+	    - É uma estrutura que organiza as classes em um sistema em uma relação de superclasse e subclasse.
+	    - Facilita a reutilização de código e a manutenção.
+
+		- Exemplo: Classe base (superclasse): Animal e as subclasses (mamíferos, aves, etc)
+
+		- herança: mecanismo pelo qual uma classe (subclasse) herda os membros (campos, métodos, propriedades) de outra classe. Basicamente se constrói classes a partir de outras ja existentes,
+		permitindo que seus métodos/atributos sejam reutilizados. Isso faz com que a Super classe seja mais específica pois conterá os atributos e etc base para facilitar.
+		
+		- Polimorfismo: poli = muitos, morfismo = formas. Ele permite que objetos de diferentes classes sejam tratados como objetos de uma classe comum.
+		
+			- Principio pelo qual duas ou mais classes possam invocar metodos que tem a mesma identificação (assinatura) - acao, mas comportamentos distintos.
+
+
+
+		* Override = sobrescrevendo um método já criado (estender ou modificar um metodo virtual/abstrato)s
+		* Virtual = é usada para modificar um método, propriedade ou evento delcarado na classe base. Possibilita que eles sejam sobrescritos na classe derivada.
+		* base: permite invocar o construtor de uma classe base, estando numa classe derivada.
+
+		- Classes abstratas (abstract): classe que quando a gente declara, faz com que ela nao possa ser instanciada diretamente. Ela serve como uma classe base para outras.
+			- É usada para definir um conjunto comum de comportamentos que podem ser compartilhados entre varias classes derivadas.
+			- Uma classe abstrata possibilita conter métodos abstratos e méotodos concretos.
+			
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - UML
 
 	- Representação de um sistema orientado a objetos por meio de esquemas, assim como o BPM;

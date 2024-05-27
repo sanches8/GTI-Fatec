@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\bin\Debug\net8.0\Polimorfismo-Heranca.exe
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\bin\Debug\net8.0\Polimorfismo-Heranca.deps.json
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\bin\Debug\net8.0\Polimorfismo-Heranca.runtimeconfig.json
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\bin\Debug\net8.0\Polimorfismo-Heranca.dll
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\bin\Debug\net8.0\Polimorfismo-Heranca.pdb
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.sourcelink.json
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.dll
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\refint\Polimorfismo-Heranca.dll
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.pdb
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\Polimorfismo-Heranca.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Polimorfismo-Heranca\Polimorfismo-Heranca\obj\Debug\net8.0\ref\Polimorfismo-Heranca.dll
