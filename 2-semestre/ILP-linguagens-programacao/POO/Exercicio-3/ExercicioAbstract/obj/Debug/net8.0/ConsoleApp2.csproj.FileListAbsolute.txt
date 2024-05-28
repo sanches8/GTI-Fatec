@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Exercicio-3\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Exercicio-3\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Exercicio-3\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Exercicio-3\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Linguagens\Linguagens-Programacao\2-semestre\ILP-linguagens-programacao\POO\Exercicio-3\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json

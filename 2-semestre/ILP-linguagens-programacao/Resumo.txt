@@ -97,7 +97,7 @@
 
 		* Override = sobrescrevendo um método já criado (estender ou modificar um metodo virtual/abstrato)s
 		* Virtual = é usada para modificar um método, propriedade ou evento delcarado na classe base. Possibilita que eles sejam sobrescritos na classe derivada.
-		* base: permite invocar o construtor de uma classe base, estando numa classe derivada.
+		* base: permite invocar o construtor de uma classe base, estando numa classe derivada.     
 
 		- Classes abstratas (abstract): classe que quando a gente declara, faz com que ela nao possa ser instanciada diretamente. Ela serve como uma classe base para outras.
 			- É usada para definir um conjunto comum de comportamentos que podem ser compartilhados entre varias classes derivadas.
