@@ -1,9 +1,15 @@
-## Seja bem-vindo! :space_invader:
-Aqui você encontrará projetos, arquivos e conteúdos relacionados a minha trajetória no curso de GTI.
-+ :computer: Graduação em Gestão da Tecnologia da Informação (GTI) | 2023 - 2026
-+ :books: O repositório está organizado de acordo com as disciplinas de cada semestre que envolvam codificação ou tarefas práticas.
-+ :mortar_board: Este repositório apresenta conteúdos do segundo semestre em diante, logo mais contemplará também conteúdos recuperados do primeiro semestre.
+## Welcome! :space_invader:
+Here you will find projects, files, and content related to my journey in the IT Management course at FATEC ITU (Dom Amaury Castanho).
++ :computer: Bachelor's in IT Management (GTI) | 2023 - 2026
++ :books: The repository is organized according to the subjects of each semester that involve coding or practical tasks.
++ :mortar_board: This repository features content from the second and third semesters onwards; soon, it will also include recovered content from the first semester.
++ :bulb: This repository aims to help those interested in the course at FATEC Dom Amaury Castanho to learn about some subjects, content, and practical applications.
 
-## Disciplinas do segundo semestre
-#### [ILP] Linguagens de Programação
+## Second Semester Subjects
 
+### [ILP] Programming Languages
+- **Introduction to Programming in C#**: Loops, conditionals, Windows Forms.
+- **Introduction to Object-Oriented Programming (OOP)**.
+
+### [Modelagem de Processos]
+- **Process Modeling**: Detailed information and methodologies covered.
